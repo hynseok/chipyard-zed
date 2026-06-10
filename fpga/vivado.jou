@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Jun  5 13:32:49 2026
+# Process ID: 1243183
+# Current directory: /home/hynseok/project/chipyard/fpga
+# Command line: vivado -mode batch -source make_bin.tcl
+# Log file: /home/hynseok/project/chipyard/fpga/vivado.log
+# Journal file: /home/hynseok/project/chipyard/fpga/vivado.jou
+#-----------------------------------------------------------
+source make_bin.tcl

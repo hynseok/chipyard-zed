@@ -1,0 +1,1 @@
+write_cfgmem -format bin -size 32 -interface SMAPx32 -loadbit "up 0x0 /home/hynseok/project/chipyard/fpga/generated-src/chipyard.fpga.zedboard.ZedboardFPGATestHarness.RocketZedboardConfig/obj/ZedboardFPGATestHarness.bit" -force /home/hynseok/project/chipyard/fpga/generated-src/chipyard.fpga.zedboard.ZedboardFPGATestHarness.RocketZedboardConfig/obj/ZedboardFPGATestHarness.bit.bin
